@@ -1,4 +1,4 @@
-This repo is forced because of  https://jira.percona.com/browse/PMM-2385  and https://github.com/revel/cmd/pull/123
+This repo is forked because of  https://jira.percona.com/browse/PMM-2385  and https://github.com/revel/cmd/pull/123
 
 ---
 
